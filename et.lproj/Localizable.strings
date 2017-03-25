@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+
+  Created by ivan on 03/11/16.
+
+*/
+OPEN_TODAY="Täna avatud";
+SEARCH_LOCATION_HINT="otsi kohta..";
+CLOSE="Sulge";
+SHOW_ON_MAP="NÄITA KAARDIL";
+TAB_LIST="NIMEKIRI";
+TAB_MAP="KAART";
+TAB_CARD="SOODUS";
+TAB_SETTINGS="SÄTTED";
+CARD_PLACEHOLDER="Sisesta oma nimi";
+SEGMENT_ALL="Kõik";
+SEGMENT_FOOD="Toit";
+SEGMENT_HEALTH="Tervis";
+SEGMENT_OTHER="Muu";
+DIRECTIONS="JUHATA";
+NO_ADDRESS="Vaata asukohta kaardil";
+TITLE_SETTINGS="Sätted";
+TITLE_LANGUAGE="Keel";
+TITLE_SORTING="Sortimine";
+LANGUAGE_EST="Eesti";
+LANGUAGE_ENG="Inglise";
+SORTING_ALPHABETICAL="Tähestikuline";
+SORTING_LOCATION="Kauguse järgi";
+OOPS="Oops";
+OK="Ok";
+CANCEL="Tühista";
+ERROR_ENABLE_LOCATION = "DiscountCard ei leia hetkel sinu asukohta, veendu, et aukoha määramine on lubatud iPhone seadetes.";
+ERROR_INTERFERENCE_LOCATION = "DiscountCard ei leia hetkel sinu asukohta, veendu, et asukohad on lubatud Settings for DiscountCard app";
+ERROR_LOCATION="Asukohta ei leitud";
+RECOMMEND_PLACE="Soovita kohta";
+RECOMMEND="Soovita";
+RECOMMEND_MESSAGE=" soovitatakse lisada soodustuste hulka";
+SUGGESTION_SENT="Sinu soovitus on saadetud";
+TRY_AGAIN="Midagi läks valesti. Proovige hiljem uuesti";
+NO_INTERNET="Võrguühendus puudub. Proovige hiljem uuesti";
+SENDING="Saatmine...";
+NO_RESULTS = "Tulemusi ei leitud";
+LIST_EMPTY = "Andmete laadimine ebaõnnestus või andmed puuduvad";

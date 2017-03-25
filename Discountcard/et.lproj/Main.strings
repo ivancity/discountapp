@@ -1,0 +1,33 @@
+
+/* Class = "UISegmentedControl"; 7Iq-Zd-TRq.segmentTitles[0] = "All"; ObjectID = "7Iq-Zd-TRq"; */
+"7Iq-Zd-TRq.segmentTitles[0]" = "Kõik";
+
+/* Class = "UISegmentedControl"; 7Iq-Zd-TRq.segmentTitles[1] = "Food"; ObjectID = "7Iq-Zd-TRq"; */
+"7Iq-Zd-TRq.segmentTitles[1]" = "Toit";
+
+/* Class = "UISegmentedControl"; 7Iq-Zd-TRq.segmentTitles[2] = "Health"; ObjectID = "7Iq-Zd-TRq"; */
+"7Iq-Zd-TRq.segmentTitles[2]" = "Tervis";
+
+/* Class = "UISegmentedControl"; 7Iq-Zd-TRq.segmentTitles[3] = "Other"; ObjectID = "7Iq-Zd-TRq"; */
+"7Iq-Zd-TRq.segmentTitles[3]" = "Muu";
+
+/* Class = "UIButton"; normalTitle = "MAP"; ObjectID = "7gj-aE-EAV"; */
+"7gj-aE-EAV.normalTitle" = "MAP";
+
+/* Class = "UILabel"; text = "CAFE NOIR"; ObjectID = "Lwp-eG-LVc"; */
+"Lwp-eG-LVc.text" = "CAFE NOIR";
+
+/* Class = "UILabel"; text = "DISCOUNTS"; ObjectID = "VtV-7d-50R"; */
+"VtV-7d-50R.text" = "DISCOUNTS";
+
+/* Class = "UILabel"; text = "TARTU"; ObjectID = "Yyy-y4-Aax"; */
+"Yyy-y4-Aax.text" = "TARTU";
+
+/* Class = "UILabel"; text = "Homepage"; ObjectID = "edp-7G-njM"; */
+"edp-7G-njM.text" = "Homepage";
+
+/* Class = "UIButton"; normalTitle = "LIST"; ObjectID = "oeq-UQ-s97"; */
+"oeq-UQ-s97.normalTitle" = "LIST";
+
+/* Class = "UILabel"; text = "Open today 9:00 - 21:00"; ObjectID = "teR-7h-jai"; */
+"teR-7h-jai.text" = "Open today 9:00 - 21:00";

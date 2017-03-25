@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+
+  Created by ivan on 03/11/16.
+
+*/
+OPEN_TODAY="Open today";
+SEARCH_LOCATION_HINT="seach for location..";
+CLOSE="Close";
+SHOW_ON_MAP="SHOW ON MAP";
+TAB_LIST="LIST";
+TAB_MAP="MAP";
+TAB_CARD="CARD";
+TAB_SETTINGS="SETTINGS";
+CARD_PLACEHOLDER="Enter your name";
+SEGMENT_ALL="All";
+SEGMENT_FOOD="Food";
+SEGMENT_HEALTH="Health";
+SEGMENT_OTHER="Other";
+DIRECTIONS="DIRECTIONS";
+NO_ADDRESS="Check out location on the map";
+TITLE_SETTINGS="Settings";
+TITLE_LANGUAGE="Language";
+TITLE_SORTING="Sorting";
+LANGUAGE_EST="Estonian";
+LANGUAGE_ENG="English";
+SORTING_ALPHABETICAL="Alphabetical";
+SORTING_LOCATION="Location based";
+OOPS="Oops";
+OK="Ok";
+CANCEL="Cancel";
+ERROR_ENABLE_LOCATION="DiscountCard can't find your location at the moment, make sure Locations is enabled in Settings for DiscountCard app";
+ERROR_INTERFERENCE_LOCATION="DiscountCard can't find a location due to strong interference";
+ERROR_LOCATION="DiscountCard can't find a location";
+RECOMMEND_PLACE="Recommend Place";
+RECOMMEND="Recommend";
+RECOMMEND_MESSAGE=" will be recommended for future addition to the list.";
+SUGGESTION_SENT="Your suggestion was sent";
+TRY_AGAIN="Something went wrong. Please try again later";
+NO_INTERNET="No Internet connection. Please try again later";
+SENDING="Sending...";
+NO_RESULTS = "No results";
+LIST_EMPTY = "Could not retrieve the discounts list or the list is empty at this moment";
